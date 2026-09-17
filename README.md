@@ -220,4 +220,4 @@ TronDS is provided as a complete free version with all features and updates incl
 Download TronDS today and rediscover the joy of Nintendo 3DS gaming on your Windows PC!
 
 ---
-**Last updated:** 2026-09-16 23:24:07 UTC
+**Last updated:** 2026-09-17 02:25:30 UTC
